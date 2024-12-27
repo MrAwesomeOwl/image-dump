@@ -1,2 +1,1 @@
-# image-dump
-in case i ever need to host images for some reason
+github is a file hosting service if you believe hard enough
